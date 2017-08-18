@@ -126,8 +126,8 @@ public class MoleGame {
 	    
 	    public static void main(String[] args){
 	    	MoleGame whackit = new MoleGame(10,10);
-	    	whackit.printArray();
-	    	whackit.printUserArry();
+	    	whackit.printArray(); // test
+	    	whackit.printUserArry(); // test
 	        
 	  
 
